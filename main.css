@@ -2,9 +2,23 @@
     max-height: 500px;
 }
 
+h1,h3{
+    text-align: center;
+}
+
 .card img{
     max-height: 400px;
 }
 .card{
     height: 700px;
+}
+
+footer{
+    background-color: #222f3e;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 120px;
 }
